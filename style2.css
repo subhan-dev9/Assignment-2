@@ -22,12 +22,20 @@ a{
     position: absolute;
     top: 20%;
     left: 5%;
+
 }
-#alert{
+#a2{
      position: absolute;
     top: 30%;
+    left: 5%;
+}
+
+#alert{
+     position: absolute;
+    top: 40%;
     left: 3%;
     color: white;
+   
 }
 main{
     padding: 5px 20px ;
